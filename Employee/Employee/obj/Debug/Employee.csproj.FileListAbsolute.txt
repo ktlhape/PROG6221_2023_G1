@@ -1,0 +1,8 @@
+D:\VC\PROG6221\GR1\Employee\Employee\bin\Debug\Employee.exe.config
+D:\VC\PROG6221\GR1\Employee\Employee\bin\Debug\Employee.exe
+D:\VC\PROG6221\GR1\Employee\Employee\bin\Debug\Employee.pdb
+D:\VC\PROG6221\GR1\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+D:\VC\PROG6221\GR1\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\GR1\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\GR1\Employee\Employee\obj\Debug\Employee.exe
+D:\VC\PROG6221\GR1\Employee\Employee\obj\Debug\Employee.pdb

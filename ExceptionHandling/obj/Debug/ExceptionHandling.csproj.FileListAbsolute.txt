@@ -1,0 +1,8 @@
+D:\VC\PROG6221\GR1\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\VC\PROG6221\GR1\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\VC\PROG6221\GR1\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\VC\PROG6221\GR1\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+D:\VC\PROG6221\GR1\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\GR1\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\GR1\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\VC\PROG6221\GR1\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

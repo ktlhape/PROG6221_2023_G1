@@ -1,0 +1,8 @@
+D:\VC\PROG6221\GR1\ObjectOriented\bin\Debug\ObjectOriented.exe.config
+D:\VC\PROG6221\GR1\ObjectOriented\bin\Debug\ObjectOriented.exe
+D:\VC\PROG6221\GR1\ObjectOriented\bin\Debug\ObjectOriented.pdb
+D:\VC\PROG6221\GR1\ObjectOriented\obj\Debug\ObjectOriented.csproj.AssemblyReference.cache
+D:\VC\PROG6221\GR1\ObjectOriented\obj\Debug\ObjectOriented.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\GR1\ObjectOriented\obj\Debug\ObjectOriented.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\GR1\ObjectOriented\obj\Debug\ObjectOriented.exe
+D:\VC\PROG6221\GR1\ObjectOriented\obj\Debug\ObjectOriented.pdb

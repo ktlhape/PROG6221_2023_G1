@@ -1,0 +1,8 @@
+D:\VC\PROG6221\GR1\StudentDetails\bin\Debug\StudentDetails.exe.config
+D:\VC\PROG6221\GR1\StudentDetails\bin\Debug\StudentDetails.exe
+D:\VC\PROG6221\GR1\StudentDetails\bin\Debug\StudentDetails.pdb
+D:\VC\PROG6221\GR1\StudentDetails\obj\Debug\StudentDetails.csproj.AssemblyReference.cache
+D:\VC\PROG6221\GR1\StudentDetails\obj\Debug\StudentDetails.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\GR1\StudentDetails\obj\Debug\StudentDetails.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\GR1\StudentDetails\obj\Debug\StudentDetails.exe
+D:\VC\PROG6221\GR1\StudentDetails\obj\Debug\StudentDetails.pdb
