@@ -1,0 +1,8 @@
+D:\VC\PROG6221\GR1\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe.config
+D:\VC\PROG6221\GR1\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe
+D:\VC\PROG6221\GR1\Dictionaries\Dictionaries\bin\Debug\Dictionaries.pdb
+D:\VC\PROG6221\GR1\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.AssemblyReference.cache
+D:\VC\PROG6221\GR1\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\GR1\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\GR1\Dictionaries\Dictionaries\obj\Debug\Dictionaries.exe
+D:\VC\PROG6221\GR1\Dictionaries\Dictionaries\obj\Debug\Dictionaries.pdb
