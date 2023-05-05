@@ -30,6 +30,12 @@ namespace GenericAndCollections
 
             Console.Read();
         }
+        /// <summary>
+        /// Display items from an array of type <T>
+        /// </summary>
+        /// <typeparam name="T">Type of array</typeparam>
+        /// <param name="ar">The array to be provided</param>
+        /// <param name="title">Description of the array</param>
         static void DisplayElements<T>(T[] ar, string title)
         {
             Console.WriteLine($"====={title}=====");
