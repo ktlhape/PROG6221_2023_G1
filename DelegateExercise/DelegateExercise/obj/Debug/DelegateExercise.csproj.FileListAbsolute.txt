@@ -1,0 +1,8 @@
+D:\VC\PROG6221\GR1\DelegateExercise\DelegateExercise\bin\Debug\DelegateExercise.exe.config
+D:\VC\PROG6221\GR1\DelegateExercise\DelegateExercise\bin\Debug\DelegateExercise.exe
+D:\VC\PROG6221\GR1\DelegateExercise\DelegateExercise\bin\Debug\DelegateExercise.pdb
+D:\VC\PROG6221\GR1\DelegateExercise\DelegateExercise\obj\Debug\DelegateExercise.csproj.AssemblyReference.cache
+D:\VC\PROG6221\GR1\DelegateExercise\DelegateExercise\obj\Debug\DelegateExercise.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\GR1\DelegateExercise\DelegateExercise\obj\Debug\DelegateExercise.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\GR1\DelegateExercise\DelegateExercise\obj\Debug\DelegateExercise.exe
+D:\VC\PROG6221\GR1\DelegateExercise\DelegateExercise\obj\Debug\DelegateExercise.pdb

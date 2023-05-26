@@ -1,0 +1,8 @@
+D:\VC\PROG6221\GR1\EventsIntroduction\EventsIntroduction\bin\Debug\EventsIntroduction.exe.config
+D:\VC\PROG6221\GR1\EventsIntroduction\EventsIntroduction\bin\Debug\EventsIntroduction.exe
+D:\VC\PROG6221\GR1\EventsIntroduction\EventsIntroduction\bin\Debug\EventsIntroduction.pdb
+D:\VC\PROG6221\GR1\EventsIntroduction\EventsIntroduction\obj\Debug\EventsIntroduction.csproj.AssemblyReference.cache
+D:\VC\PROG6221\GR1\EventsIntroduction\EventsIntroduction\obj\Debug\EventsIntroduction.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\GR1\EventsIntroduction\EventsIntroduction\obj\Debug\EventsIntroduction.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\GR1\EventsIntroduction\EventsIntroduction\obj\Debug\EventsIntroduction.exe
+D:\VC\PROG6221\GR1\EventsIntroduction\EventsIntroduction\obj\Debug\EventsIntroduction.pdb

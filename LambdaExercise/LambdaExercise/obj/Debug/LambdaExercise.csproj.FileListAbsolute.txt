@@ -1,0 +1,8 @@
+D:\VC\PROG6221\GR1\LambdaExercise\LambdaExercise\bin\Debug\LambdaExercise.exe.config
+D:\VC\PROG6221\GR1\LambdaExercise\LambdaExercise\bin\Debug\LambdaExercise.exe
+D:\VC\PROG6221\GR1\LambdaExercise\LambdaExercise\bin\Debug\LambdaExercise.pdb
+D:\VC\PROG6221\GR1\LambdaExercise\LambdaExercise\obj\Debug\LambdaExercise.csproj.AssemblyReference.cache
+D:\VC\PROG6221\GR1\LambdaExercise\LambdaExercise\obj\Debug\LambdaExercise.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\GR1\LambdaExercise\LambdaExercise\obj\Debug\LambdaExercise.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\GR1\LambdaExercise\LambdaExercise\obj\Debug\LambdaExercise.exe
+D:\VC\PROG6221\GR1\LambdaExercise\LambdaExercise\obj\Debug\LambdaExercise.pdb
