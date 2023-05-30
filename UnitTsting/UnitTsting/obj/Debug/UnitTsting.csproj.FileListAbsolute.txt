@@ -1,0 +1,8 @@
+D:\VC\PROG6221\GR1\UnitTsting\UnitTsting\bin\Debug\UnitTsting.exe.config
+D:\VC\PROG6221\GR1\UnitTsting\UnitTsting\bin\Debug\UnitTsting.exe
+D:\VC\PROG6221\GR1\UnitTsting\UnitTsting\bin\Debug\UnitTsting.pdb
+D:\VC\PROG6221\GR1\UnitTsting\UnitTsting\obj\Debug\UnitTsting.csproj.AssemblyReference.cache
+D:\VC\PROG6221\GR1\UnitTsting\UnitTsting\obj\Debug\UnitTsting.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\GR1\UnitTsting\UnitTsting\obj\Debug\UnitTsting.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\GR1\UnitTsting\UnitTsting\obj\Debug\UnitTsting.exe
+D:\VC\PROG6221\GR1\UnitTsting\UnitTsting\obj\Debug\UnitTsting.pdb
