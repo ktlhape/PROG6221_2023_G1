@@ -1,0 +1,16 @@
+D:\VC\PROG6221\GR1\DepartmentEmployees\DepartmentEmployees\bin\Debug\DepartmentEmployees.exe.config
+D:\VC\PROG6221\GR1\DepartmentEmployees\DepartmentEmployees\bin\Debug\DepartmentEmployees.exe
+D:\VC\PROG6221\GR1\DepartmentEmployees\DepartmentEmployees\bin\Debug\DepartmentEmployees.pdb
+D:\VC\PROG6221\GR1\DepartmentEmployees\DepartmentEmployees\obj\Debug\DepartmentEmployees.csproj.AssemblyReference.cache
+D:\VC\PROG6221\GR1\DepartmentEmployees\DepartmentEmployees\obj\Debug\DepartmentEmployees.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\GR1\DepartmentEmployees\DepartmentEmployees\obj\Debug\MainWindow.g.cs
+D:\VC\PROG6221\GR1\DepartmentEmployees\DepartmentEmployees\obj\Debug\App.g.cs
+D:\VC\PROG6221\GR1\DepartmentEmployees\DepartmentEmployees\obj\Debug\DepartmentEmployees_MarkupCompile.cache
+D:\VC\PROG6221\GR1\DepartmentEmployees\DepartmentEmployees\obj\Debug\DepartmentEmployees_MarkupCompile.lref
+D:\VC\PROG6221\GR1\DepartmentEmployees\DepartmentEmployees\obj\Debug\MainWindow.baml
+D:\VC\PROG6221\GR1\DepartmentEmployees\DepartmentEmployees\obj\Debug\DepartmentEmployees.g.resources
+D:\VC\PROG6221\GR1\DepartmentEmployees\DepartmentEmployees\obj\Debug\DepartmentEmployees.Properties.Resources.resources
+D:\VC\PROG6221\GR1\DepartmentEmployees\DepartmentEmployees\obj\Debug\DepartmentEmployees.csproj.GenerateResource.cache
+D:\VC\PROG6221\GR1\DepartmentEmployees\DepartmentEmployees\obj\Debug\DepartmentEmployees.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\GR1\DepartmentEmployees\DepartmentEmployees\obj\Debug\DepartmentEmployees.exe
+D:\VC\PROG6221\GR1\DepartmentEmployees\DepartmentEmployees\obj\Debug\DepartmentEmployees.pdb

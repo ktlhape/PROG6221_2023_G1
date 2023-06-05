@@ -1,0 +1,16 @@
+D:\VC\PROG6221\GR1\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+D:\VC\PROG6221\GR1\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+D:\VC\PROG6221\GR1\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+D:\VC\PROG6221\GR1\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.AssemblyReference.cache
+D:\VC\PROG6221\GR1\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\GR1\MyCalculator\MyCalculator\obj\Debug\MainWindow.g.cs
+D:\VC\PROG6221\GR1\MyCalculator\MyCalculator\obj\Debug\App.g.cs
+D:\VC\PROG6221\GR1\MyCalculator\MyCalculator\obj\Debug\MyCalculator_MarkupCompile.cache
+D:\VC\PROG6221\GR1\MyCalculator\MyCalculator\obj\Debug\MyCalculator_MarkupCompile.lref
+D:\VC\PROG6221\GR1\MyCalculator\MyCalculator\obj\Debug\MainWindow.baml
+D:\VC\PROG6221\GR1\MyCalculator\MyCalculator\obj\Debug\MyCalculator.g.resources
+D:\VC\PROG6221\GR1\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+D:\VC\PROG6221\GR1\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.cache
+D:\VC\PROG6221\GR1\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\GR1\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+D:\VC\PROG6221\GR1\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
