@@ -5,30 +5,31 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DepartmentEmployees"
         mc:Ignorable="d"
-        Title="Department Employees" Height="450" Width="800">
+        Title="Department Employees" Height="550" Width="900">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="23*"/>
             <RowDefinition Height="194*"/>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="400"/>
-            <ColumnDefinition Width="400"/>
+            <ColumnDefinition Width="465"/>
+            <ColumnDefinition Width="335"/>
 
         </Grid.ColumnDefinitions>
-        <Label Content="IT Department" HorizontalAlignment="Left" Margin="319,0,0,0" VerticalAlignment="Center" FontSize="24" Foreground="Blue" Grid.ColumnSpan="2"/>
-        <Label Content="Employee ID:" FontSize="25" HorizontalAlignment="Left" Margin="23,48,0,0" Grid.Row="1" VerticalAlignment="Top"/>
-        <Label Content="Firstname:" FontSize="25" HorizontalAlignment="Left" Margin="54,96,0,0" Grid.Row="1" VerticalAlignment="Top"/>
-        <Label Content="Lastname:" FontSize="25" HorizontalAlignment="Left" Margin="54,144,0,0" Grid.Row="1" VerticalAlignment="Top"/>
-        <Label Content="Salary:" FontSize="25" HorizontalAlignment="Left" Margin="93,205,0,0" Grid.Row="1" VerticalAlignment="Top"/>
-        <TextBox x:Name="txtEmpID" FontSize="25" HorizontalAlignment="Left" Margin="212,52,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="160"/>
-        <TextBox x:Name="txtFirstname" FontSize="25" HorizontalAlignment="Left" Margin="212,104,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="160"/>
-        <TextBox x:Name="txtLastname" FontSize="25" HorizontalAlignment="Left" Margin="212,153,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="160"/>
-        <TextBox x:Name="txtSalary" FontSize="25" HorizontalAlignment="Left" Margin="212,209,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="160"/>
-        <Button Name="btnAdd" Content="Add Employee" FontSize="18" HorizontalAlignment="Left" Margin="58,294,0,0" Grid.Row="1" VerticalAlignment="Top" Padding="10" Background="{x:Null}" Click="btnAdd_Click"/>
-        <Button Name="btnClose" Content="Close" FontSize="18" HorizontalAlignment="Left" Margin="253,294,0,0" Grid.Row="1" VerticalAlignment="Top" Width="119" Padding="10" Background="{x:Null}" Click="btnClose_Click"/>
-        <ListBox  Name="lstDisplay" FontSize="15" Grid.Column="1" Grid.Row="1" BorderBrush="Blue" BorderThickness="1" Margin="20"/>
-
+        <Label Content="IT Department" HorizontalAlignment="Left" Margin="319,0,0,0" VerticalAlignment="Center" FontSize="24" Foreground="Blue" Grid.ColumnSpan="2" Height="42" Width="163"/>
+        <Label Content="Employee ID:" FontSize="25" HorizontalAlignment="Left" Margin="23,48,0,0" Grid.Row="1" VerticalAlignment="Top" Height="43" Width="154"/>
+        <Label Content="Firstname:" FontSize="25" HorizontalAlignment="Left" Margin="54,96,0,0" Grid.Row="1" VerticalAlignment="Top" Height="43" Width="123"/>
+        <Label Content="Lastname:" FontSize="25" HorizontalAlignment="Left" Margin="54,144,0,0" Grid.Row="1" VerticalAlignment="Top" Height="43" Width="120"/>
+        <Label Content="Salary:" FontSize="25" HorizontalAlignment="Left" Margin="93,205,0,0" Grid.Row="1" VerticalAlignment="Top" Height="43" Width="81"/>
+        <TextBox x:Name="txtEmpID" FontSize="25" HorizontalAlignment="Left" Margin="212,52,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="160" Height="35"/>
+        <TextBox x:Name="txtFirstname" FontSize="25" HorizontalAlignment="Left" Margin="212,104,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="160" Height="35"/>
+        <TextBox x:Name="txtLastname" FontSize="25" HorizontalAlignment="Left" Margin="212,153,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="160" Height="35"/>
+        <TextBox x:Name="txtSalary" FontSize="25" HorizontalAlignment="Left" Margin="212,209,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="160" Height="35"/>
+        <Button Name="btnAdd" Content="Add Employee" FontSize="18" HorizontalAlignment="Left" Margin="23,349,0,0" Grid.Row="1" VerticalAlignment="Top" Padding="10" Background="{x:Null}" Click="btnAdd_Click" Height="46" Width="137"/>
+        <Button Name="btnClose" Content="Close" FontSize="18" HorizontalAlignment="Left" Margin="319,349,0,0" Grid.Row="1" VerticalAlignment="Top" Width="119" Padding="10" Background="{x:Null}" Click="btnClose_Click" Height="46"/>
+        <ListBox  Name="lstDisplay" FontSize="15" Grid.Column="1" Grid.Row="1" BorderBrush="Blue" BorderThickness="1" Margin="20,87,-61,20"/>
+        <Button x:Name="btnDisplay" Content="Display" FontSize="18" HorizontalAlignment="Left" Margin="141,18,0,0" Grid.Row="1" VerticalAlignment="Top" Width="118" Padding="10" Background="{x:Null}" Height="46" Grid.Column="1" Click="btnDisplay_Click"/>
+        <Button x:Name="btnSearch" Content="Serach" FontSize="18" HorizontalAlignment="Left" Margin="183,349,0,0" Grid.Row="1" VerticalAlignment="Top" Width="119" Padding="10" Background="{x:Null}"  Height="46" Click="btnSearch_Click"/>
 
     </Grid>
 </Window>

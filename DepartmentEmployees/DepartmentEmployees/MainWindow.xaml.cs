@@ -20,7 +20,8 @@ namespace DepartmentEmployees
     /// </summary>
     public partial class MainWindow : Window
     {
-        List<Employee> lsEmployees = new List<Employee>();
+        Employee em = null;
+
         public MainWindow()
         {
             InitializeComponent();
@@ -34,39 +35,27 @@ namespace DepartmentEmployees
         private void btnAdd_Click(object sender, RoutedEventArgs e)
         {
             int empID = 0;
-            if (txtEmpID.Text.Length < 1)
-            {
-                MessageBox.Show($"Please enter Employee ID");
-                txtEmpID.Focus();
-            }
-            else
+            string firstname;
+            string lastname;
+            double salary;
+
+            if (txtEmpID.Text.Trim().Length > 1 || txtFirstname.Text.Trim().Length > 1 ||
+                txtLastname.Text.Trim().Length > 1 || txtSalary.Text.Trim().Length > 1)
             {
                 empID = Convert.ToInt32(txtEmpID.Text);
-            }
-            
-           
-            string firstname = txtFirstname.Text;
-            string lastname = txtLastname.Text;
-            double salary = Convert.ToDouble(txtSalary.Text);
+                firstname = txtFirstname.Text;
+                lastname = txtLastname.Text;
+                salary = Convert.ToDouble(txtSalary.Text);
 
-            Employee em = null;
-
-            if (txtFirstname.Text.Length > 1)
-            {
                 em = new Employee(empID, firstname, lastname, salary);
-                    lsEmployees.Add(em);
-                    lstDisplay.Items.Add(em.Details());
-
-                    MessageBox.Show($"{em.Firstname} {em.Lastname} has been added");
-                    Clear();
-              
+                em.AddEmployee();
+                //lstDisplay.Items.Add(em.Details());
+                Clear();
             }
             else
             {
-                MessageBox.Show($"Error - Unable to add employee");
-            }
-
-            
+                MessageBox.Show("Please enter all details");
+            } 
         }
         public void Clear()
         {
@@ -75,6 +64,17 @@ namespace DepartmentEmployees
             txtLastname.Clear();
             txtSalary.Clear();
             txtEmpID.Focus();
+        }
+
+        private void btnDisplay_Click(object sender, RoutedEventArgs e)
+        {
+            lstDisplay.Items.Add(em.AllEmployees());
+        }
+
+        private void btnSearch_Click(object sender, RoutedEventArgs e)
+        {
+            SearchWindow sw = new SearchWindow();
+            sw.ShowDialog();
         }
     }
 }

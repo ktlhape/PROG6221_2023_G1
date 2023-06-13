@@ -12,7 +12,9 @@ namespace DepartmentEmployees
         public string Firstname { get; set; }
         public string Lastname { get; set; }
         public double Salary { get; set; }
-
+        public List<Employee> lsEmployees = new List<Employee>();
+        public string Gender { get; set; } //Radio buttons
+        public bool IsMarried { get; set; } //Checkbox 
         public Employee(){}
         public Employee(int employeeID, string firstname, string lastname, double salary)
         {
@@ -21,10 +23,39 @@ namespace DepartmentEmployees
             Lastname = lastname;
             Salary = salary;
         }
-
-        public string Details()
+        public void AddEmployee()
         {
-            return $"({EmployeeID}): {Firstname} {Lastname} - {Salary.ToString("C2")}";
+            lsEmployees.Add(this);
         }
+
+        public Employee GetEmployee(int id)
+        {
+            Employee em = new Employee();
+            foreach (Employee item in lsEmployees)
+            {
+                if (item.EmployeeID == id)
+                {
+                    em = item;
+                }
+            }
+            return em;  
+        }
+
+        public string AllEmployees()
+        {
+            string strEmployees = "";
+            foreach (Employee item in lsEmployees)
+            {
+                strEmployees += item.Details() + "\n";
+               
+            }
+            return strEmployees;
+        }
+
+
+        public string Details() =>
+        
+        $"({EmployeeID}): {Firstname} {Lastname} - {Salary.ToString("C2")}";
+        
     }
 }

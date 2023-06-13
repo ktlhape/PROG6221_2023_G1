@@ -1,0 +1,20 @@
+﻿<Window x:Class="DepartmentEmployees.SearchWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DepartmentEmployees"
+        mc:Ignorable="d"
+        Title="Employee Details" Height="320" Width="700">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="91*"/>
+            <RowDefinition Height="213*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Employee ID:" HorizontalAlignment="Left" Margin="83,33,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <TextBox Name="txtSearch" HorizontalAlignment="Left" Margin="260,37,0,0" TextWrapping="Wrap" FontSize="24" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnSearch" Content="Search" HorizontalAlignment="Left" Margin="429,35,0,0" Padding="5" VerticalAlignment="Top" FontSize="20" Background="{x:Null}" BorderBrush="#FFFF0101" Width="111"/>
+        <ListBox Name="lstDetails" Grid.Row="1" Margin="20"/>
+
+    </Grid>
+</Window>
