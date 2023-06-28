@@ -1,0 +1,50 @@
+﻿<Page x:Class="NavigationApp.Views.PgHome"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NavigationApp.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Home">
+  
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="73*"/>
+            <RowDefinition Height="269*"/>
+            <RowDefinition Height="92*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Style="{StaticResource headings}" Content="Just a heading" HorizontalAlignment="Left" Margin="356,0,0,0" VerticalAlignment="Center"   Grid.ColumnSpan="2"/>
+        <Label Content="Employee ID:" HorizontalAlignment="Left" Margin="22,18,0,0" Grid.Row="1" VerticalAlignment="Top" Grid.Column="1" Height="26" Width="79"/>
+        <TextBox Name="txt_EmployeeID" Style="{StaticResource textboxes}" HorizontalAlignment="Left" Margin="119,22,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top"  Grid.Column="1" />
+        <Button x:Name="btnSearch" Content="Search" Margin="285,22,0,0" Grid.Row="1" VerticalAlignment="Top" Grid.Column="1" Height="20" HorizontalAlignment="Left" Width="39" />
+        <Label Content="Employee ID:" HorizontalAlignment="Left" Margin="47,23,0,0" Grid.Row="1" VerticalAlignment="Top" Height="26" Width="79"/>
+        <TextBox Name="txtEmployeeID" Style="{StaticResource textboxes}" HorizontalAlignment="Left" Margin="47,54,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" />
+        <Label Content="Firstname:" HorizontalAlignment="Left" Margin="47,82,0,0" Grid.Row="1" VerticalAlignment="Top" Height="26" Width="64"/>
+        <TextBox x:Name="txtFirstname" Style="{StaticResource textboxes}" HorizontalAlignment="Left" Margin="47,117,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" />
+        <Label Content="Lastname:" HorizontalAlignment="Left" Margin="217,82,0,0" Grid.Row="1" VerticalAlignment="Top" Height="26" Width="63"/>
+        <TextBox Name="txtLastname" Style="{StaticResource textboxes}" HorizontalAlignment="Left" Margin="217,117,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" />
+        <Label Content="Phone:" HorizontalAlignment="Left" Margin="47,145,0,0" Grid.Row="1" VerticalAlignment="Top" Height="26" Width="46"/>
+        <TextBox Name="txtPhone" Style="{StaticResource textboxes}" HorizontalAlignment="Left" Margin="47,176,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" />
+        <Label Content="Email:" HorizontalAlignment="Left" Margin="217,145,0,0" Grid.Row="1" VerticalAlignment="Top" Height="26" Width="41"/>
+        <TextBox Name="txtEmail" Style="{StaticResource textboxes}" HorizontalAlignment="Left" Margin="217,176,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" />
+        <Button x:Name="btnSave" Style="{StaticResource buttons}" Content="Save" HorizontalAlignment="Left" Margin="28,26,0,0" Grid.Row="2" VerticalAlignment="Top" Height="33" Width="79" />
+        <Button x:Name="btnClear" Style="{StaticResource buttons}" Content="Clear" HorizontalAlignment="Left" Margin="173,26,0,0" Grid.Row="2" VerticalAlignment="Top" Height="33" Width="79" />
+        <Button Name="btnClose" Style="{StaticResource buttons}" Content="Close" HorizontalAlignment="Left" Margin="297,26,0,0" Grid.Row="2" VerticalAlignment="Top" Height="33" Width="79"/>
+        <Label Content="Firstname:" HorizontalAlignment="Left" Margin="48,82,0,0" Grid.Row="1" VerticalAlignment="Top" Height="26" Width="64" Grid.Column="1"/>
+        <TextBox x:Name="txt_Firstname" Text="{Binding Firstname}" Style="{StaticResource textboxes}" HorizontalAlignment="Left" Margin="48,117,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Grid.Column="1" />
+        <Label Content="Lastname:" HorizontalAlignment="Left" Margin="218,82,0,0" Grid.Row="1" VerticalAlignment="Top" Height="26" Width="63" Grid.Column="1"/>
+        <TextBox Name="txt_Lastname" Text="{Binding Lastname}" Style="{StaticResource textboxes}" HorizontalAlignment="Left" Margin="218,117,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Grid.Column="1" />
+        <Label Content="Phone:" HorizontalAlignment="Left" Margin="48,145,0,0" Grid.Row="1" VerticalAlignment="Top" Height="26" Width="46" Grid.Column="1"/>
+        <TextBox Name="txt_Phone" Text="{Binding Phone}" Style="{StaticResource textboxes}" HorizontalAlignment="Left" Margin="48,176,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Grid.Column="1" />
+        <Label Content="Email:" HorizontalAlignment="Left" Margin="218,145,0,0" Grid.Row="1" VerticalAlignment="Top" Height="26" Width="41" Grid.Column="1"/>
+        <TextBox Name="txt_Email" Text="{Binding Email}" Style="{StaticResource textboxes}" HorizontalAlignment="Left" Margin="218,176,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Grid.Column="1" />
+
+
+    </Grid>
+</Page>
